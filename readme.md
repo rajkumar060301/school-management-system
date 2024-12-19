@@ -119,5 +119,5 @@ If you discover a security vulnerability within LAV_SMS, please send an e-mail t
 - Librarian/Acountant user pages
 - Library Resources/Study Materials Upload for Students
 
-### **Contact [CJ INSPIRED]**
-- Phone : +2347068149559
+### **Contact [RJ INSPIRED]**
+- Phone : +917764904152
